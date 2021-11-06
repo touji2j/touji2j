@@ -39,7 +39,7 @@
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 [![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touji2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
