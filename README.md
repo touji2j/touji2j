@@ -5,7 +5,8 @@
 [I'm a moroccan passionate girl about machine learning and analytics](http://touji2j.me/) ✨
 
 ![](https://komarev.com/ghpvc/?username=touji2j)
-![](https://komarev.com/ghpvc/?username=touji2j&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/touji2j/touji2j?color=black&logo=github&style=flat-square)
+
 
 
 **About me**
@@ -21,6 +22,7 @@
 - 🌱 I'm currently seeking for a 4 months graduation Internship in  BI / Data Analytics starting from February 2022.
 
 - ⚡ Fun fact: My last name [Touji ~冬至~](https://guidable.co/culture/espanol-touji-%E5%86%AC%E8%87%B3/) comes from a japanese culture which means winter solstice in the 22nd of December.
+
 
 **Languages and Tools:** 
 
@@ -42,19 +44,33 @@
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 
-<!-- <img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
- -->
+
+
 [![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=the2jyma&layout=wide)](https://twitter.com/the2jyma)
 
 
 
-<a href="https://twitter.com/the2jyma"><img align="right" alt="oumayma touji | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+
+
+
+
+
 
 
 
 ---
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+
+ </p>
+ 
+ <p align="center">
+ 
+   <i>[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/touji2j)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oumaymatouji/)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/oumayma_touji)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/the2jyma)</i>
  </p>
 
 
