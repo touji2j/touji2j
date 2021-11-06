@@ -44,12 +44,13 @@
 
 
 
-<a href="https://twitter.com/the2jyma">
-  <img align="right" alt="oumayma touji | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+<a href="https://twitter.com/the2jyma"><img align="right" alt="oumayma touji | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
 
 
 
+_A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
+You miss 100% of the shots you don't take.
+_
 
 
 
