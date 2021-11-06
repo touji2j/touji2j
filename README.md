@@ -1,9 +1,11 @@
 ### Hi there 👋
 <p align="center"><a href="http://touji2j.me"><img width="50%" src="Hello2.png" /></a></p>
 
-<br />
+
 
 [I'm a moroccan passionate girl about machine learning and analytics](http://touji2j.me/) ✨
+
+---
 
 **About me**
 
@@ -18,6 +20,8 @@
 - 🌱 I'm currently seeking for a 4 months graduation Internship in  BI / Data Analytics starting from February 2022.
 
 - ⚡ Fun fact: My last name [Touji ~冬至~](https://guidable.co/culture/espanol-touji-%E5%86%AC%E8%87%B3/) comes from a japanese culture which means winter solstice in the 22nd of December.
+
+---
 
 **Languages and Tools:** 
 
