@@ -61,7 +61,7 @@
 
 ---
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>The question of whether computers can think is like the question of whether submarines can swim.</i>
 
  </p>
  
