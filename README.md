@@ -5,6 +5,7 @@
 [I'm a moroccan passionate girl about machine learning and analytics](http://touji2j.me/) ✨
 
 ![](https://komarev.com/ghpvc/?username=touji2j)
+![](https://komarev.com/ghpvc/?username=touji2j&style=flat-square&label=Views)
 
 
 **About me**
