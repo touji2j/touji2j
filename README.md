@@ -38,7 +38,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
-[![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
