@@ -4,6 +4,9 @@
 
 [I'm a moroccan passionate girl about machine learning and analytics](http://touji2j.me/) ✨
 
+![](https://komarev.com/ghpvc/?username=touji2j)
+
+
 **About me**
 
 - 💼 Last year Engineering Student at [ENSIAS School](http://ensias.um5.ac.ma/)( National School of Computer Science and System Analysis), Branch : Data Analytics & Business Intelligence
@@ -48,9 +51,10 @@
 
 
 
-_A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-You miss 100% of the shots you don't take.
-_
+---
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+ </p>
 
 
 
