@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><a href="http://touji2j.me"><img width="50%" src="Hello1.png" /></a></p>
+<p align="center"><a href="http://touji2j.me"><img width="50%" src="Hello2.png" /></a></p>
 
 <br />
 
