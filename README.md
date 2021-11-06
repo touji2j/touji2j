@@ -3,7 +3,7 @@
 
 <br />
 
-[I'm a moroccan passionate girl about machine learning and analytics] (http://touji2j.me/) ✨
+[I'm a moroccan passionate girl about machine learning and analytics](http://touji2j.me/) ✨
 
 **About me**
 
