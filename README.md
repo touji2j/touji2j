@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a moroccan passionate girl about machine learning and analytics ✨
+[I'm a moroccan passionate girl about machine learning and analytics] (http://touji2j.me/) ✨
 
 **About me**
 
@@ -13,9 +13,12 @@ I'm a moroccan passionate girl about machine learning and analytics ✨
 
 - ❤️ I love exploring the world of data to get useful and funny insights
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/oumaymatouji/)
 
 - 🌱 I'm currently seeking for a 4 months graduation Internship in  BI / Data Analytics starting from February 2022.
+
+- ⚡ Fun fact: My last name [Touji ~冬至~](https://guidable.co/culture/espanol-touji-%E5%86%AC%E8%87%B3/) comes from a japanese culture which means winter solstice in the 22nd of December.
+
 
 
 <!--
