@@ -45,7 +45,7 @@
 
 <!-- <img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
  -->
-[![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
