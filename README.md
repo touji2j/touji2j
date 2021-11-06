@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><a href="http://touji2j.me"><img width="80%" src="Hello1.png" /></a></p>
+<p align="center"><a href="http://touji2j.me"><img width="50%" src="Hello1.png" /></a></p>
 
 <br />
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://hit.yhype.me/github/profile?user_id=57493348)
-![alt text](https://github.com/touji2j/touji2j/blob/main/Hello.png "Logo Title Text 1")
+
  
