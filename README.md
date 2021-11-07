@@ -46,7 +46,7 @@
 
 
 
-[![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+![touji2j's GitHub stats](https://github-readme-stats.vercel.app/api?username=touji2j&count_private=true&show_icons=true&theme=swift)
 [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=the2jyma&layout=wide)](https://twitter.com/the2jyma)
 
 
