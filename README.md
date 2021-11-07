@@ -19,7 +19,7 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/oumaymatouji/)
 
-- 🌱 I'm currently seeking for a 4 months graduation Internship in  BI / Data Analytics starting from February 2022.
+- 🌱 I'm currently seeking for a 4 months graduation Internship in  BI / Data Analytics/ Machine Learning starting from February 2022.
 
 - ⚡ Fun fact: My last name [Touji ~冬至~](https://guidable.co/culture/espanol-touji-%E5%86%AC%E8%87%B3/) comes from a japanese culture which means winter solstice in the 22nd of December.
 
